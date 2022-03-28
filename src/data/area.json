@@ -1,0 +1,212 @@
+[
+  {
+    "id": "1",
+    "name": "A-01",
+    "floor": 2,
+    "type": 1,
+    "status": 0,
+    "total": 1000,
+    "price": 25,
+    "collected": false
+  },
+  {
+    "id": "2",
+    "name": "A-02",
+    "floor": 1,
+    "type": 2,
+    "status": 0,
+    "total": 1000,
+    "price": 25,
+    "collected": false
+  },
+  {
+    "id": "3",
+    "name": "A-03",
+    "floor": 1,
+    "type": 3,
+    "status": 0,
+    "total": 1000,
+    "price": 25,
+    "collected": false
+  },
+  {
+    "id": "4",
+    "name": "B-01",
+    "floor": 1,
+    "type": 0,
+    "status": 0,
+    "total": 1000,
+    "price": 25,
+    "collected": false
+  },
+  {
+    "id": "5",
+    "name": "B-02",
+    "floor": 1,
+    "type": 0,
+    "status": 0,
+    "total": 1000,
+    "price": 25,
+    "collected": false
+  },
+  {
+    "id": "6",
+    "name": "B-03",
+    "floor": 1,
+    "type": 0,
+    "status": 0,
+    "total": 1000,
+    "price": 25,
+    "collected": false
+  },
+  {
+    "id": "7",
+    "name": "B-04",
+    "floor": 1,
+    "type": 0,
+    "status": 0,
+    "total": 1000,
+    "price": 25,
+    "collected": false
+  },
+  {
+    "id": "8",
+    "name": "B-05",
+    "floor": 1,
+    "type": 0,
+    "status": 0,
+    "total": 1000,
+    "price": 25,
+    "collected": false
+  },
+  {
+    "id": "9",
+    "name": "B-06",
+    "floor": 1,
+    "type": 0,
+    "status": 0,
+    "total": 1000,
+    "price": 25,
+    "collected": false
+  },
+  {
+    "id": "10",
+    "name": "C-01",
+    "floor": 1,
+    "type": 0,
+    "status": 0,
+    "total": 1000,
+    "price": 25,
+    "collected": false
+  },
+  {
+    "id": "11",
+    "name": "C-02",
+    "floor": 1,
+    "type": 0,
+    "status": 0,
+    "total": 1000,
+    "price": 25,
+    "collected": false
+  },
+  {
+    "id": "12",
+    "name": "C-03",
+    "floor": 1,
+    "type": 0,
+    "status": 0,
+    "total": 1000,
+    "price": 25,
+    "collected": false
+  },
+  {
+    "id": "13",
+    "name": "E-01",
+    "floor": 1,
+    "type": 0,
+    "status": 2,
+    "total": 1000,
+    "price": 25,
+    "collected": false
+  },
+  {
+    "id": "14",
+    "name": "E-02",
+    "floor": 1,
+    "type": 0,
+    "status": 2,
+    "total": 1000,
+    "price": 25,
+    "collected": false
+  },
+  {
+    "id": "15",
+    "name": "E-03",
+    "floor": 1,
+    "type": 0,
+    "status": 2,
+    "total": 1000,
+    "price": 25,
+    "collected": false
+  },
+  {
+    "id": "16",
+    "name": "E-04",
+    "floor": 1,
+    "type": 0,
+    "status": 1,
+    "total": 1000,
+    "price": 25,
+    "collected": false
+  },
+  {
+    "id": "17",
+    "name": "E-05",
+    "floor": 1,
+    "type": 0,
+    "status": 1,
+    "total": 1000,
+    "price": 25,
+    "collected": false
+  },
+  {
+    "id": "18",
+    "name": "E-06",
+    "floor": 1,
+    "type": 0,
+    "status": 1,
+    "total": 1000,
+    "price": 25,
+    "collected": false
+  },
+  {
+    "id": "19",
+    "name": "D-01",
+    "floor": 1,
+    "type": 0,
+    "status": 3,
+    "total": 1000,
+    "price": 25,
+    "collected": false
+  },
+  {
+    "id": "20",
+    "name": "D-02",
+    "floor": 1,
+    "type": 0,
+    "status": 3,
+    "total": 1000,
+    "price": 25,
+    "collected": false
+  },
+  {
+    "id": "21",
+    "name": "D-03",
+    "floor": 1,
+    "type": 0,
+    "status": 3,
+    "total": 1000,
+    "price": 25,
+    "collected": false
+  }
+]
