@@ -97,7 +97,6 @@ export default {
   },
   mounted() {
     this.$refs.player.playbackRate = 0.5;
-    this.$refs.player.webkitEnterFullscreen();
     setInterval(() => {
       this.liveProfit += 1;
     }, 100);

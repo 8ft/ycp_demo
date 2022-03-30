@@ -7,7 +7,7 @@ const router = new Router({
   routes: [
     {
       path: "/",
-      redirect: "/wms",
+      redirect: "/home",
     },
     {
       path: "/home",
@@ -36,6 +36,14 @@ const router = new Router({
     {
       path: "/game",
       component: require("@/pages/game.vue").default,
+    },
+    {
+      path: "/zb",
+      component: require("@/pages/zb.vue").default,
+    },
+    {
+      path: "/help",
+      component: require("@/pages/help.vue").default,
     },
   ],
 });
